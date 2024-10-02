@@ -10,3 +10,7 @@ ul {
     align-items: center;
     padding: 20px;
 }
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
